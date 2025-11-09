@@ -7,8 +7,8 @@
   list-style: none;
 }
 body {
-  background-color: black;
-  background-image: url("codefull.png");
+  background-color: rgb(165, 163, 163);
+  background-image: url("justnew.jpg");
   background-size: cover;
   background-repeat: repeat;
   background-attachment: fixed;
@@ -35,7 +35,7 @@ body {
   border-radius: 20px;
 }
 .container a {
-  color: white;
+  color: rgb(11, 14, 207);
 }
 .container a:hover {
   font-size: 17px;
